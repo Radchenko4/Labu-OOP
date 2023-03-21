@@ -1,0 +1,5 @@
+   4  Bogdan
+   4  Roman   
+   3  Iryna 
+   3  Dmytro
+   4  Anastasia
