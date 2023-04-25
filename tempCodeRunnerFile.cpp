@@ -1,0 +1,12 @@
+ MyArray<Car> carArr1;
+ carArr1.add(c1);
+ carArr1.add(c2);
+ carArr1.add(c3);
+ cout << "Array with Car 1 " << endl;
+ cout << carArr1;
+ MyArray<Car> carArr2;
+ carArr2 = carArr1;
+ carArr2.add(c4);
+ cout << "Array with Car 2 " << endl;
+ cout << carArr2;
+ cout << "cArr1 == cArr2 " << (carArr1 == carArr2) << endl;
